@@ -1,0 +1,31 @@
+POST /boafrm/formIpv6Setup HTTP/1.1
+
+Host: 192.168.0.1
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0
+
+Accept: */*
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+
+X-Requested-With: XMLHttpRequest
+
+Content-Length: 737
+
+Origin: http://192.168.0.1
+
+DNT: 1
+
+Connection: close
+
+Referer: http://192.168.0.1/IPv6_Setup.htm
+
+Cookie: webuicookie=1p4p24OHykTbddjR91Y87BPB
+
+
+
+sessionCheck=e6b1c98a902a9b76e07aee36d1a615dd&submit-url=%2FIPv6_Setup.htm&update=&wan_enable=1&OriginType=1&pppUserName=123456&pppPassword=123456789&pppPassword=123456789&dnsMode_P=0&pppoe_dns1=8.8.8.8&pppoe_dns2=10.10.10.10&pppoeMtu=1492&static_ipv6=fe80%3A%3Abc%3Aeaff%3Afeca%3A33d5aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaamaaanaaaoaaapaaaqaaaraaasaaataaauaaavaaawaaaxaaayaaazaabbaabcaabdaabeaabfaabgaabhaabiaabjaabkaablaabmaabnaaboaabpaabqaabraabsaabtaabuaabvaabwaabxaabyaab&static_gw=fe80%3A%3Abc%3Aeaff%3Afeca%3A33d5&static_dns1=8.8.8.8&static_dns2=10.10.10.10&static_mtu=1500&dhcp_ip=%3A%3A&pri_dns=%3A%3A&sec_dns=%3A%3A&dnsMode_D=1&dhcp_dns1=8.8.8.8&dhcp_dns2=10.10.10.10&DhcpMtu=1500&PreType=0&Dhcp6s_PoolS=&Dhcp6s_PoolE=
